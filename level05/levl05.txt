@@ -1,0 +1,5 @@
+cd :/opt/openarenaserver
+cd usr/sbin
+
+echo "getflag > /tmp/plswork" > /opt/openarenaserver/test.sh
+token :viuaaale9huek52boumoomioc

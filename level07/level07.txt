@@ -1,0 +1,4 @@
+level07 gets env LOGNAME
+export LOGNAME=\`getflag\`
+
+token : fiumuikeil55xe9cu4dood66h

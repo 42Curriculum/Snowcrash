@@ -1,0 +1,9 @@
+ call   8048400 <strstr@plt>
+strings level08
+%s [file to read]
+token
+You may not access '%s
+ln -s token /tmp/link
+
+pass: quif5eloekouj29ke0vouxean
+token : 25749xKZ8L7DkSCwJkT9dyv6f

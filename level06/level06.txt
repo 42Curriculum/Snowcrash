@@ -1,0 +1,3 @@
+/e lul
+ echo '[x ${`getflag`}]'>/tmp/owo
+token :  wiok45aaoguiboiki2tuin6ub

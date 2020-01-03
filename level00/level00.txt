@@ -1,0 +1,6 @@
+John is a moron.
+find / uid 3000
+cd usr/sbin/john
+pass: "cdiiddwpgswtgt" rot11-> "nottoohardhere"
+token : 
+	x24ti5gi3x0ol2eh4esiuxias

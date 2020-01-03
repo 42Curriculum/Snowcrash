@@ -1,0 +1,5 @@
+find /etc -name passwd -exec cat {} \;  2>/dev/null
+
+in etc/42hDRfypTqqnw
+
+toekn : f2av5il02puano7naaf6adaaf
