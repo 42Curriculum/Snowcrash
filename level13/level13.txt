@@ -1,0 +1,5 @@
+gdb level 13
+b main
+disass
+jump main+64 ( jump *0x080485cb)
+pass : 2A31L79asukciNyi8uppkEuSx

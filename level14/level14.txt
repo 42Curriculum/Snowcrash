@@ -1,0 +1,11 @@
+gdb getflag
+b main
+b *0x0804898e
+b uid
+r
+c
+set $eax = 0
+c
+s
+set $eax = 0
+token : 7QiHafiNa3HVozsaXkawuYrTstxbpABHD8CPnHJ

