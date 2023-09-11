@@ -1,5 +1,5 @@
 John is a moron.
-find / uid 3000
+ find / -user flag00 2>/dev/null
 cd usr/sbin/john
 pass: "cdiiddwpgswtgt" rot11-> "nottoohardhere"
 token : 
